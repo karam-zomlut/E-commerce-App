@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --WatchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karam-zomlut/E-commerce-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karam-zomlut/E-commerce-App/issues"
+  },
+  "homepage": "https://github.com/karam-zomlut/E-commerce-App#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
